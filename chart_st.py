@@ -3,7 +3,7 @@ import streamlit_authenticator as stauth
 import yaml
 from yaml.loader import SafeLoader
 import Bigbook
-import init_streamlit
+#import init_streamlit
 import mul_st
 st.set_page_config(page_title="Chart Cool App",page_icon="🌐",layout='wide',initial_sidebar_state="auto")
 hide_streamlit_style = """
