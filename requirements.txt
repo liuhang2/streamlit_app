@@ -1,9 +1,7 @@
-numpy
+
 streamlit
 streamlit_authenticator
 pathlib
 bs4
-shutil
 requests
-re
 json
