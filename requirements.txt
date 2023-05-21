@@ -2,3 +2,4 @@ streamlit_authenticator
 pathlib
 bs4
 requests
+gpt4free
