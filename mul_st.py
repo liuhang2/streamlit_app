@@ -114,7 +114,7 @@ def page1():
             border: 0;   /* 把他自带的边框去掉，不然会有违和感 */
         }
         </style>
-        <iframe src="https://chat-gpt-next-web-cc8c-liuhang2.vercel.app//#/chat" class="css" ></iframe>
+        <iframe src="https://bing-vercel.vcanbb.top" class="css" ></iframe>
         """
         st.markdown(lin_1,unsafe_allow_html=True)
     if xuze=='Forefront':
