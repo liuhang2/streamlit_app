@@ -1,4 +1,5 @@
 streamlit_authenticator
+streamlit
 pathlib
 bs4
 requests
