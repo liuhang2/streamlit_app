@@ -3,4 +3,3 @@ streamlit
 pathlib
 bs4
 requests
-gpt4free
