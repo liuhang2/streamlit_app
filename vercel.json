@@ -3,6 +3,6 @@
     { "src": "streamlit_app.py", "use": "python@3.8" }
   ],
   "routes": [
-    { "src": "chart_st.py" }
+    { "src": "/(.*)", "dest": "chart_st.py" }
   ] 
 }
