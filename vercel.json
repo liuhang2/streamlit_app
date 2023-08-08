@@ -1,8 +1,5 @@
 { 
   "builds": [
-    { "src": "streamlit_app.py", "use": "@vercel/python" }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "chart_st.py" }
-  ] 
+    { "src": "chart_st.py", "use": "@vercel/python" }
+  ]
 }
