@@ -1,5 +1,5 @@
 { 
   "builds": [
-    { "src": "chart_st.py", "use": "@vercel/python" }
+    { "src": "chart_st.py", "use": "@vercel/python" ,"config": { "maxLambdaSize": "500mb" } }
   ]
 }
