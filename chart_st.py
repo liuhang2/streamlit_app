@@ -64,3 +64,6 @@ elif authentication_status is False:
     st.error('Username/password is incorrect')
 elif authentication_status is None:
     st.warning('请填入用户名(username)和密码(password)')
+if __name__ == '__main__':
+    st.server.run()
+
